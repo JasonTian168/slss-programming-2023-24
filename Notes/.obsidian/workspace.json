@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blockquotes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfbf4abd3596ec31",
+  "active": "194799bdde3d8875",
   "lastOpenFiles": [
+    "Natural Language Processing.md",
     "().md",
     "Markdown (Re)Introduction.md"
   ]
