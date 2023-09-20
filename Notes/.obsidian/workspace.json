@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing.md"
+                "file": "Design.md"
               }
             }
           },
@@ -156,12 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194799bdde3d8875",
+  "active": "2f6d10bca3c99878",
   "lastOpenFiles": [
+    "chatbot.py",
+    "chatbot",
+    "Notes",
+    "Natural Language Processing.md",
+    "Design.md",
+    "Strings.md",
     "Untitled 1",
     "Untitled",
     "Markdown (Re)Introduction.md",
-    "Natural Language Processing.md",
     "().md"
   ]
 }
