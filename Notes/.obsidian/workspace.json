@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c534b973d65dbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Boolean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Boolean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing.md"
+                "file": "Boolean.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6d10bca3c99878",
+  "active": "0c534b973d65dbda",
   "lastOpenFiles": [
+    "Conditionals.md",
+    "Boolean.md",
     "Strings.md",
     "Lists.md",
     "Design.md",
