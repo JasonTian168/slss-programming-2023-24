@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -169,16 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c534b973d65dbda",
+  "active": "2f6d10bca3c99878",
   "lastOpenFiles": [
+    "Markdown (Re)Introduction.md",
     "Conditionals.md",
+    "Natural Language Processing.md",
     "Boolean.md",
+    "Modules.md",
     "Strings.md",
     "Lists.md",
     "Design.md",
-    "Markdown (Re)Introduction.md",
-    "Modules.md",
-    "Natural Language Processing.md",
     "warmup_1.py",
     "warmup-1.py",
     "chatbot.py",

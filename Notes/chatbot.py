@@ -22,18 +22,27 @@ print(f"It's good to meet you, {user_name}")
 fav_food = input("What is your favourite food?")
 
 # Make a comment about their food and try not to be TOO REPETITIVE
-# Create a list of possible responses
-list_of_food_responses = [
-    f"Oh. I've never had {fav_food} before",
-    "Mmmmmm. That sounds good!",
-    "I heard that that is delicious.",
-    "Cool."
-]
+
+# If their favourite food is sushi, reply with yum
+if fav_food == "sushi":
+    print("yum")
+    print("I think I love sushi")
+elif fav_food == "burger" or fav_food == "Burgers":
+    print("Burgers, I hear are delicious")
+else:
+
+    # Create a list of possible responses
+    list_of_food_responses = [
+        f"Oh. I've never had {fav_food} before",
+        "Mmmmmm. That sounds good!",
+        "I heard that that is delicious.",
+        "Cool." 
+    ]
 
 
-# Choos one of those responses randomly
+    # Choos one of those responses randomly
 
-random_food_response = random.choice(list_of_food_responses)
+    random_food_response = random.choice(list_of_food_responses)
 
-# Print out that chosen response
-print(random_food_response)
+    # Print out that chosen response
+    print(random_food_response)
