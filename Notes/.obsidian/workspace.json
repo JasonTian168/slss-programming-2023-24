@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing.md"
+                "file": "Strings.md"
               }
             }
           },
@@ -170,13 +170,19 @@
   },
   "active": "2f6d10bca3c99878",
   "lastOpenFiles": [
-    "Markdown (Re)Introduction.md",
-    "Conditionals.md",
+    "food_suggestion_bot.py",
     "Natural Language Processing.md",
+    "Markdown (Re)Introduction.md",
+    "List.md",
+    "Strings.md",
+    "list.md",
+    "Errors.md",
+    "README.md",
+    "Iteration.md",
+    "input_and_output.py",
+    "Conditionals.md",
     "Boolean.md",
     "Modules.md",
-    "Strings.md",
-    "Lists.md",
     "Design.md",
     "warmup_1.py",
     "warmup-1.py",
