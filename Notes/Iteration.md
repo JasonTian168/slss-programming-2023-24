@@ -73,3 +73,11 @@ for name in names:
 	if name == "Jasmine Soto":
 		print("We found her!")
 ```
+
+## Iterating *n Number of Times
+
+We can iterate/loop for any
+
+```python
+for i in range (< positive integers>)
+```
