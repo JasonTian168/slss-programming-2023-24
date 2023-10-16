@@ -81,3 +81,13 @@ We can iterate/loop for any
 ```python
 for i in range (< positive integers>)
 ```
+
+## range() function
+`range()` is a function that gives you a sequence of numbers starting at 0 by default. By default, it also goes up by one. It stops before the that you provided as an input.
+
+```python
+range(100) -> Sequence(0, 1, 2, ..., 99)
+```
+
+# break 
+Break allows us to stop the looping. Once break is reached, no other codes underneath it in the for loop will run.
