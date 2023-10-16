@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "31239cbf9b409ff4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "0c534b973d65dbda",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6d10bca3c99878",
+  "active": "31239cbf9b409ff4",
   "lastOpenFiles": [
     "List.md",
     "Errors.md",
