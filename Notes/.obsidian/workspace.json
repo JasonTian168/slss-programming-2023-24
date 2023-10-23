@@ -23,10 +23,8 @@
             "id": "31239cbf9b409ff4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -181,21 +179,22 @@
   },
   "active": "31239cbf9b409ff4",
   "lastOpenFiles": [
-    "List.md",
-    "Errors.md",
-    "loop_practice.py",
+    "Untitled.canvas",
     "Natural Language Processing.md",
     "Strings.md",
+    "Modules.md",
+    "Design.md",
+    "Errors.md",
+    "Iteration.md",
+    "List.md",
+    "Conditionals.md",
+    "loop_practice.py",
     "food_suggestion_bot.py",
     "Markdown (Re)Introduction.md",
     "list.md",
     "README.md",
-    "Iteration.md",
     "input_and_output.py",
-    "Conditionals.md",
     "Boolean.md",
-    "Modules.md",
-    "Design.md",
     "warmup_1.py",
     "warmup-1.py",
     "chatbot.py",
