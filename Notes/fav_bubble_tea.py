@@ -41,5 +41,3 @@ print( "The Percentage is: " + str(suntea_likes / total * 100) + "%")
 print(f"Bubble Queen likes : {bubqueen_likes}")
 print( "The Percentage is: " + str(bubqueen_likes / total * 100) + "%")
 
-print("HI")
-
