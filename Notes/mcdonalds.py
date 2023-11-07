@@ -12,4 +12,4 @@ if burger_choice == "yes":
 if fries_choice == "yes":
     sum += 3
 
-print("Your total would be " + str(sum * 1.14))
+print("Your total would be $ " + str(sum * 1.14))
