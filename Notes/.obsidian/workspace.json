@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f6d10bca3c99878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iteration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31239cbf9b409ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iteration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "142469bce6d15147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recommendation System.md",
+                "file": "List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b2800dd7a69a601",
+            "id": "671678d69e5d922d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Recommendation System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c534b973d65dbda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boolean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "142469bce6d15147",
+  "active": "671678d69e5d922d",
   "lastOpenFiles": [
+    "similarity_score.py",
+    "List.md",
+    "data.csv",
+    "Recommendation System.md",
+    "Iteration.md",
     "semester_evaluation_bot.py",
     "world_traveler_bot.py",
     "age_2049.py",
     "Numbers.md",
     "Numbers.md",
-    "Recommendation System.md",
     "Types.md",
     "Untitled.md",
     "chip_rater.py",
@@ -221,7 +189,6 @@
     "pumpkin_drawing.py",
     "fav_bubble_tea.py",
     "number_practice.py",
-    "Iteration.md",
     "quiz_1.md",
     "quiz_1",
     "Untitled.canvas",
@@ -230,10 +197,7 @@
     "Modules.md",
     "Design.md",
     "Errors.md",
-    "List.md",
     "Conditionals.md",
-    "loop_practice.py",
-    "food_suggestion_bot.py",
     "Markdown (Re)Introduction.md",
     "list.md",
     "README.md",
