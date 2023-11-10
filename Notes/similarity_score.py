@@ -16,7 +16,7 @@ ubials_favourite_movies = [
 ]
 bens_favourite_movies = [
     "Thomas and Friends Big World Big Adventure",
-    "Infernal Affairs",3
+    "Infernal Affairs",
     "Rogue One",
     "Spiderman: Into the spider-verse",
     "Guaridans of the Galaxy: Volume 3"
