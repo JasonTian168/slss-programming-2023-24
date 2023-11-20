@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/JasonTian168/slss-programming-2023-24/main/Notes/similarity_score.py
+https://raw.githubusercontent.com/JasonTian168/slss-programming-2023-24/main/Notes/parental_bot.py
