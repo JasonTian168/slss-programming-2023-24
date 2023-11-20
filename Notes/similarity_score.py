@@ -1,31 +1,11 @@
-# Comparing Similarity Scores
+hobbies1 = input("Please enter hobbies, separated by spaces ").lower().split()
 
-# Author: Ubial
-# 8 November 2023
+hobbies2 = input("Please enter another set of hobbies, separated by spaces ").lower().split()
 
-# Calculations similarity scores between two people 
+similarScore = 0
 
-# Create two lists that represent the movies 
-# that people like
-ubials_favourite_movies = [
-    "The Matrix",
-    "Avengers: Infinity War",
-    "The Empire Strikes Back"
-    "Infernal Affairs"
-    "Rogue One"
-]
-bens_favourite_movies = [
-    "Thomas and Friends Big World Big Adventure",
-    "Infernal Affairs",
-    "Rogue One",
-    "Spiderman: Into the spider-verse",
-    "Guaridans of the Galaxy: Volume 3"
-]
+for hobbies in hobbies1:
+    if hobbies in hobbies2:
+        similarScore += 1
 
-# Initialize a similarity score
-
-# For each item in the first
-    # if that item is in the second list 
-        # increase the similarity score by 1
-
-# Display the results
+print("You have " + str(similarScore) + " hobbies in common!")
