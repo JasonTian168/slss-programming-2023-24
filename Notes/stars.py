@@ -21,3 +21,11 @@ def pyramid(NUMS_RESPOND: int) -> int:
 
 print(pyramid(5))
 
+def pyramid_mirror(nums_respond: int) -> int:
+    count = 1
+    for x in range(nums_respond, 0, -1):
+        print(" " * x + "*" * count)
+        count += 1
+
+print(pyramid_mirror(5))
+
