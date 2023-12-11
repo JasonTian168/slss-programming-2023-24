@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "List.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "List.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "142469bce6d15147",
   "lastOpenFiles": [
+    "Functions.md",
+    "functions.recursion.py",
     "functions_turtle.py",
     "List.md",
-    "Functions.md",
     "stars.py",
     "Recommendation System.md",
     "cookie.py",
@@ -196,8 +197,6 @@
     "similarity_score.py",
     "similarity_score1.py",
     "similarity_score",
-    "parental_bot.py",
-    "parental_bot",
     "Iteration.md",
     "Numbers.md",
     "Numbers.md",
