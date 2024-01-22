@@ -1,5 +1,5 @@
 # Functions and Turtle
-# Author: Ubial
+# Author: Tian
 # 28 November 2023
 
 import turtle
